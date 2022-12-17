@@ -21,7 +21,7 @@
 ‣ Bachelor's Degree in Business Informatics with the focus on Software Engineering
   \
   \
-‣ Yandex Student Web Development Bootcamp Graduate
+‣ Yandex Practicum Web Development Bootcamp Graduate
   \
   \
 ‣ Swift & Kotlin are currently my main languages
