@@ -7,7 +7,7 @@
 </p>
     
 <h4 align="center">
-  I'm Lenka, a 22 year old software developer who is currently learning everything about Mobile App Development!
+  I'm Lenka, a 23 year old software developer who is currently learning everything about Mobile App Development!
 </h4>
 
 <p align="center">
